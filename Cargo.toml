@@ -1,0 +1,6 @@
+[package]
+name = "rusty-sum"
+version = "0.1.0"
+authors = ["Foo Bar <fu.bar@easymile.com>"]
+
+[dependencies]
